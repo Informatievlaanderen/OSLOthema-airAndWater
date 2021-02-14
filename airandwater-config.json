@@ -11,7 +11,25 @@
   "documentatie": [],
   "charter": [
   ],
+  "verslagen": [
+    {
+      "naam": "Verslag Business workshop - 17 dec 2020",
+      "waarde": "Meeting Minutes Business Workshop Air & Water.docx"
+    },
+    {
+      "naam": "Verslag Thematische werkgroep 1 - 09 feb 2021",
+      "waarde": "Meeting Minutes - Thematic workshop 1 OSLO Air & Water 09022021.docx"
+    }
+    ],
   "presentaties": [
+    {
+      "naam": "Verslag Business workshop - 17 dec 2020",
+      "waarde": "OSLO Air en Water Business Workshop.pptx"
+    },
+    {
+      "naam": "Verslag Thematische werkgroep 1 - 09 feb 2021",
+      "waarde": "OSLO Air & Water - Workshop 1.pptx"
+    }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over lucht en water",
   "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
