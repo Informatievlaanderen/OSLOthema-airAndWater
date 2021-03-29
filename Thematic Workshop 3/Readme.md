@@ -1,5 +1,5 @@
 |Class|Definition|Origin|
-|-------------| ------------- | ------------- |
+|:-------------:|:-------------:|:-------------:|
 |Observation|An observation is the act of observing a property.|ISO O&M|
 |Property|A property is a facet or attribute of an object referenced by a name.|ISO O&M|
 |Feature|Features are abstractions of real-world phenomena.|ISO O&M|
