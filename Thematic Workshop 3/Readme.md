@@ -15,3 +15,20 @@
 |OperatingRange|Describes normal operating properties of a system under some specified conditions. For example, to the power requirements or maintenance schedule of a system under a specified temperature range.|[SSN](https://www.w3.org/TR/vocab-ssn/#SSNSYSTEMOperatingRange)|
 |SurvivalRange|Describes survivalproperties of a system under some specified conditions. For example the lifetime of a system under a specified temperature range.|[SSN](https://www.w3.org/TR/vocab-ssn/#SSNSYSTEMSurvivalRange)|
 |Device|An apparatus (hardware + software / firmware) intended to accomplish a particular task (sensing the environment, actuating, …). A device is a tangible object which contains some logic and is producer and/or consumer of data. A device is always assumed to be capable of communicating electronically via a network.|[FIWARE](https://fiware-datamodels.readthedocs.io/en/latest/Device/Device/doc/spec/index.html)|
+|SamplingFeatureComplex|Sampling features are frequently related to each other, as parts of complexes, through sub-sampling, and in other ways. If present, the association class SamplingFeatureComplex shall link a SF_SamplingFeature to another SF_SamplingFeature. It shall support one attribute.|ISO O&M|
+|Specimen|A Specimen is a physical sample, obtained for observation(s) carried out ex situ, sometimes in a laboratory.|ISO O&M|
+|AirFeature|Air features are abstractions of real-world phenomena, in this case pertaining to air.|ISO O&M|
+|AirQualityObservation|An observation of air quality conditions at a certain place and time.|[FIWARE](https://fiware-datamodels.readthedocs.io/en/latest/Environment/AirQualityObserved/doc/spec/index.html)|
+|Measure|Value described using a numeric amount with a scale or using a scalar reference system |ISO O&M|
+|AirQualityIndexObservation|Air quality index corresponding to the air quality observed.|[FIWARE](https://fiware-datamodels.readthedocs.io/en/latest/Environment/AirQualityObserved/doc/spec/index.html)|
+|AirQualityLevelObservation|Overall qualitative level of health concern corresponding to the air quality observed.|[FIWARE](https://fiware-datamodels.readthedocs.io/en/latest/Environment/AirQualityObserved/doc/spec/index.html)|
+|AirPollutantObservation|An observation of air pollutants at a certain place and time.|~FIWARE|
+|AirPollutantValueObservation|An observation of the quantitative value of air pollutants at a certain place and time.|~FIWARE|
+|AirPollutantLevelObservation|Overall qualitative level of air pollutants. |~FIWARE|
+|AirQualityObservationCollection|A collection of one or more air observations, whose members share a common value for one or more properties.|[SOSA-extension](https://www.w3.org/TR/vocab-ssn-ext/#sosa:ObservationCollection)|
+|WaterQualityObservationCollection|A collection of one or more water observations, whose members share a common value for one or more properties.|[SOSA-extension](https://www.w3.org/TR/vocab-ssn-ext/#sosa:ObservationCollection)|
+|WaterFeature|Water features are abstractions of real-world phenomena, in this case pertaining to water.|ISO O&M|
+|WaterQualityParameterObservation|An observation of water quality conditions at a certain place and time. |~FIWARE|
+|ChemicalAgentConcentrationObservation|An observation of the quantitative value of chemical agents in the water observed at a certain place and time. |N/A|
+|BioIndicatorObservation|An observation of a specific biological indicator in the water observed at a certain place and time.|N/A|
+|BioticIndexObservation|An observation of a biotic index in the water observed at a certain place and time.|N/A|
