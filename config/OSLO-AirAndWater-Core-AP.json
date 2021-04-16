@@ -10,9 +10,25 @@
   "publication-date": "2021-04-16",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
-  "contributors-column": "MijnKolom2",
+  "contributors-column": "MijnKolom",
   "site": "site-skeleton/OSLO-airAndWater-Core-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
-}
+},
+{
+  "name": "OSLO-airAndWater-Air-ap",
+  "type": "ap",
+  "eap": "OSLO-AirAndWater-AP.EAP",
+  "diagram": "Air&Water-Air",
+  "template": "mijn-applicatieprofiel-ap.j2",
+  "title": "OSLO Air & Water - Air",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2021-04-16",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "MijnKolom",
+  "site": "site-skeleton/OSLO-airAndWater-Air-ap",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+},
 ]
