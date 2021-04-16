@@ -2,7 +2,7 @@
 {
   "name": "OSLO-airAndWater-Core-ap",
   "type": "ap",
-  "eap": "OSLO-AirAndWater-AP.eap",
+  "eap": "OSLO-AirAndWater-AP.EAP",
   "diagram": "Air&Water-Core",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "OSLO Air & Water - Core",
