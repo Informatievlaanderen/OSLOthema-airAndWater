@@ -3,7 +3,7 @@
   "name": "OSLO-airAndWater-Core-ap",
   "type": "ap",
   "eap": "OSLO-AirAndWater-AP.eap",
-  "diagram": "MijnApplicatieprofiel",
+  "diagram": "Air&Water-Core",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "OSLO Air & Water - Core",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
