@@ -1,4 +1,38 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
 AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;E;
+Kevin;Haleydt;PwC Belgium;kevin.haleydt@pwc.com;http://www.pwc.be/;E;
 MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Michiel;De Keyzer;PwC Belgium;michiel.de.keyzer@pwc.com;http://www.pwc.be/;E
+Dries;Catteceur;PwC Belgium;dries.catteceur@pwc.com;http://www.pwc.be/;C
+Annelies;De Craene;Digitaal Vlaanderen;annelies.decraene@vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;C
+Ziggy;Van Lishout;Digitaal Vlaanderen;ziggy.vanlishout@vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;C
+Dwight;Van Lancker;Digitaal Vlaanderen;dwight.vanlancker@vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;C
+Bert;Van Nuffelen;Digitaal Vlaanderen;bert.vannuffelen@vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;C
+Geert;Van Haute;Departement Omgeving;geert.vanhaute@vlaanderen.be;https://omgeving.vlaanderen.be/;C
+Marleen;Van Damme;Departement Omgeving;marleen.vandamme@vlaanderen.be;https://omgeving.vlaanderen.be/;C
+Frank;Lavens;Vlaamse Milieumaatschappij;f.lavens@vmm.be;https://en.vmm.be/;C
+Geert;Devriese;Vlaamse Milieumaatschappij;g.devriese@vmm.be;https://en.vmm.be/;C
+Jurgen;Meirlaen;Vlaamse Milieumaatschappij;j.meirlaen@vmm.be;https://en.vmm.be/;C
+Katleen;Miserez;Vlaamse Milieumaatschappij;k.miserez@vmm.be;https://en.vmm.be/;C
+Laurian;Van Maldeghem;Vlaams Instituut voor de Zee;laurian.van.maldeghe@vliz.be;https://www.vliz.be/;C
+Elien;Dewitte;Vlaams Instituut voor de Zee;;https://www.vliz.be/;C
+Benjamin;Gaertner;Heidelberg;Benjamin.Gaertner@Heidelberg.de;https://www.heidelberg.de/english/Home.html;C
+Philippe;Michiels;Imec vzw;philippe.michiels.ext@imec.be;https://www.imec-int.com/en;C
+Harm;Delva;Imec vzw;harm.delva@imec.be;https://www.imec-int.com/en;C
+Pieter;Colpaert;Imec vzw;Pieter.Colpaert@imec.be;https://www.imec-int.com/en;C
+Brecht;Zwaenepoel;West-Vlaamse Intercommunales;;https://www.wvi.be/;C
+Eric;Duchesne;BDO Belgium;;https://www.bdo.be/nl-be/home;C
+Stijn;Van Hoey;Fluves;stijn@fluves.com;https://fluves.com/;C
+Gert;De Tant;Sirus NV;gert.detant@sirus.be;https://sirus.be/;C
+Olivier;Bernard;Altis Swiss;olivier.bernard@altis.swiss;https://www.altis.swiss/;C
+Fernando;López;FIWARE;fernando.lopez@fiware.org;https://www.fiware.org/about-us/;C
+Olaf-Gerd;Gemein;Smart Cities Lab;;https://www.smartcitieslab.org/;C
+Jesper;Zedlitz;Kiel University;;https://www.uni-kiel.de/en/;C
+Frank;Sleeuwaert;VITO Belgium;frank.sleeuwaert@vito.be;https://vito.be/en;C
+Niels;Melotte;De Vlaamse Waterweg;niels.melotte@bdo.be;https://www.vlaamsewaterweg.be/;C
+Peter;Braem;Proximus;peter.braem@proximus.com;https://www.proximus.be/en/id_personal/personal.html;C
+Laurent;Horvath;Altis Swiss;laurent.horvath@altis.swiss;https://www.altis.swiss/;C
+Vincent;Demortier;OASC;vincent.demortier@oasc.fr;https://oascities.org/;C
+Maxime;Mularz;Hostabee;maxime.mularz@hostabee.com;https://hostabee.com/en/eng-homepage/;C
+Bernard;Olivier;Altis Swiss;olivier.bernard@altis.swiss;https://www.altis.swiss/;C
