@@ -3,7 +3,7 @@
   "name": "OSLO-airAndWater-Air-ap",
   "type": "ap",
   "eap": "OSLO-AirAndWater-Quality-AP.EAP",
-  "diagram": "Air&Water-Air Quality",
+  "diagram": "Air&Water-Air",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "OSLO Air & Water - Air Quality",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
