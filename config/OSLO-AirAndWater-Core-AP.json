@@ -13,6 +13,7 @@
   "site": "site-skeleton/OSLO-airAndWater-Core-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html",
+  "translation" :[
    {
       "language":"en",
       "template":"airandwaterCore-ap_en.j2",
@@ -27,5 +28,6 @@
       "translationjson":"airandwaterCore-ap_nl.json",
       "mergefile":"airandwaterCore-ap_nl_merged.jsonld"
     }
+   ]
 }
 ]
