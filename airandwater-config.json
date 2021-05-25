@@ -7,7 +7,20 @@
   "type_toepassing": "TBD",
   "categorie": "Vocabularium en applicatieprofielen",
   "beschrijving": "airandwater.md",
-  "specificatiedocument": [],
+  "specificatiedocument": [
+    {
+      "naam": "Applicatieprofiel Core",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Core/ontwerpstandaard/2021-04-16"
+    },
+    {
+      "naam": "Applicatieprofiel Air",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-04-16"
+    },
+    {
+      "naam": "Applicatieprofiel Water",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-04-16"
+    }
+  ],
   "documentatie": [],
   "charter": [
   ],
@@ -23,6 +36,14 @@
     {
       "naam": "Verslag Thematische werkgroep 2 - 04 maart 2021",
       "waarde": "Meeting Minutes - Thematic workshop 2 OSLO Air & Water.docx"
+    },
+    {
+      "naam": "Verslag Thematische werkgroep 3 - 01 april 2021",
+      "waarde": "Meeting Minutes - Thematic workshop 3 OSLO Air & Water.docx"
+    },
+    {
+      "naam": "Verslag Thematische werkgroep 4 - 27 april 2021",
+      "waarde": "Meeting Minutes - Thematic workshop 4 OSLO Air & Water.docx"
     }
   ],
   "presentaties": [
@@ -37,6 +58,14 @@
     {
       "naam": "Presentatie Thematische werkgroep 2 - 04 maart 2021",
       "waarde": "OSLO Air & Water - Workshop 2.pptx"
+    },
+    {
+      "naam": "Presentatie Thematische werkgroep 3 - 01 april 2021",
+      "waarde": "OSLO Air & Water - Workshop 3.pptx"
+    },
+    {
+      "naam": "Presentatie Thematische werkgroep 4 - 27 april 2021",
+      "waarde": "OSLO Air & Water - Workshop 4.pptx"
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over lucht en water",
