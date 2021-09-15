@@ -13,6 +13,21 @@
   "contributors-column": "MijnKolom",
   "site": "site-skeleton/OSLO-airAndWater-Water-AP",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
-}
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html",
+  "translation" :[
+    {
+      "language":"en",
+      "template":"airandwaterWater-ap_en.j2",
+      "title": "OSLO Air & Water - Water Quality",
+      "translationjson":"airandwaterWater-ap_en.json",
+      "mergefile":"airandwaterWater-ap_en_merged.jsonld"
+    },
+    {
+      "language":"nl",
+      "template":"airandwaterWater-ap_nl.j2",
+      "title": "OSLO Air & Water - Water Quality",
+      "translationjson":"airandwaterWater-ap_nl.json",
+      "mergefile":"airandwaterWater-ap_nl_merged.jsonld"
+    }
+  ]}
 ]
