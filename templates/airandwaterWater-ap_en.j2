@@ -2,10 +2,10 @@
 
 {% block summary %}
 <p>This application profile describes how to describe Water Quality Observations.</p>
-<p>The profile builds on an application profile that explains how to describe Observations in general. This is based on the ISO standard Observations and Measurements and on SOSA/SSN: an ontology for describing, among other things, Sampling and Sensors.</p>
-<p>Four classes have been added to this profile specifically for Water Quality, each describing a certain type of Observation of the Quality of Water.</p>
+<p>The profile builds on the <a href"https://purl.eu/doc/applicationprofile/AirAndWater/Core">OSLO Application Profile Air & Water - Core</a> that explains how to describe Observations in general. This profile is based on <a href="https://www.iso.org/standard/32574.html">ISO 19156  Observations and Measurements</a> and on <a href"https://www.w3.org/TR/vocab-ssn/">The Semantic Sensor Network Ontology</a>.</p>
+<p>Four classes have been added to this profile specifically for Water Quality, each describing a certain type of Observation of the quality of water.</p>
 <p>The WaterQualityParameter class describes physical parameters such as temperature, turbidity, etc.</p>
 <p>The ChemicalAgentConcentration class allows to document the concentration of harmful or undesirable substances in the water.</p>
-<p>The biological quality of the water can be described using the BioIndicatorObservation class which documents observations of living organisms acting as BioIndicator & the BioticIndex class which allows to record counts of organisms based on their vulnerability and converted into an index.</p>
-<p>Finally, the Waterfeature class provides the possibility to clearly indicate which Object is exactly being observed or sampled (a River? a Channel? etc) either by means of a value from a code list OR by referring directly to the instance of the typed object.</p>
+<p>The biological quality of the water can be described using the BioIndicatorObservation class which documents observations of living organisms acting as bioIndicator & the BioticIndex class which aggergates counts of organisms based on their pollution tolerance into an index.</p>
+<p>Finally, the WaterFeature class provides the possibility to clearly indicate which Object is exactly being observed or sampled (eg the channel Brussels-Charleroi) either as a WaterFeature typed by means of a value from a code list or by referring directly to the instance of the typed object.</p>
 {% endblock %}
