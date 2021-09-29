@@ -1,5 +1,16 @@
 {% extends "purl-ap2_en.j2" %}
 
 {% block summary %}
-<p>TO DO</p>
+<p>The OSLO Air & Water - Core application profile specifies how Observations should be described in general. It forms the basis for domain-specific application profiles such as OSLO Air & Water - Air Quality and OSLO Air & Water - Water Quality.</p>
+<p>The profile is based on ISO 19156 Observations and Measurements and on the OGC/W3C Semantic Sensor Network Ontology.</p>
+<p>From Observations and Measurements, the profile adopts the way an Observation should be described: as an activity performed at a particular time and with a particular Result. It is very important that it is clearly indicated which Object is being observed and which Characteristic of that Object.</p>
+<p>Objects are usually not directly observable, usually one observes a part that is considered representative of the whole. This can be a specific place, eg a measuring station (class SpatialSamplingFeature) or a physical sample taken from the Object (class Specimen), eg a water sample.</p>
+<p>According to the nature of the Result of the Observation, different types of Observations are distinguished (Measurement, Count, Classification etc).</p>
+<p>Often there is a need to describe not only the SamplingFeature (as stated either the spot being sampled or a physical Sample) but also the way in which it was created. For that reason, we adopted from the Semantic Sensor Ontology the way in which Sampling is described.</p>
+<p>Sampling is considered as an activity just like Observation, ie an event performed at a specific time with a specific result. That result is the SamplingFeature.</p>
+<p>The SamplingProcedure and Sampler classes additionally allow to describe how and with the help of which tools the SamplingFeature was obtained.</p>
+<p>Similarly, the Semantic Sensor Ontology provides the ObservationProcedure and Sensor classes. The latter may be interpreted broadly as the tool with which the Observation is performed.</p>
+<p>A Sensor is regarded as a specialization of a System and in this way acquires additional characteristics that allow to indicate what the accuracy or range of the Sensor is, for example.</p>
+<p>A System such as a Sensor is mounted on a Platform or more narrowly defined: a Device (which itself is also a System). We use the FIWARE Device Model to describe Devices.</p>
+
 {% endblock %}
