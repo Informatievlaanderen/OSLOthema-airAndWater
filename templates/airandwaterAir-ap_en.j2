@@ -1,5 +1,13 @@
 {% extends "purl-ap2_en.j2" %}
 
 {% block summary %}
-<p>TO DO</p>
+{% block summary %}
+<p>The application profile OSLO Air & Water - Air Quality specifies how to describe Air Quality Observations.</p>
+<p>The profile builds on the <a href="https://purl.eu/doc/applicationprofile/AirAndWater/Core">application profile OSLO Air & Water - Core</a> that explains how to describe Observations in general. That profile is based on <a href="https://www.iso.org/standard/32574.html">ISO 19156 Observations and Measurements</a> and on the <a href="https://www.w3.org/TR/vocab-ssn/">Semantic Sensor Network Ontology</a>.</p>
+<p>Two main classes with each two subclasses have been added to the Core profile specifically for Air Quality, each describing a certain type of Observation of the quality of air.</p>
+<p>The AirQualityObservation class describes AirQuality in general terms, either as an AirQualityIndex or as an AirQualityLevel. The former is a numerical quality score on a particular scale, while the latter is the categorical rating derived from it.</p>
+<p>The AirPollutantObservation class allows to describe the concetrations of pollutants in the air, either as a quantitative value (class AirPollutantValueObservation) or as a the classification of this value according to certain threshold values (AirPollutantLevelObservation).</p>
+<p>Air Quality Observations that do not belong to one of these classes have to be described as generic Observations with the Observation Class.</p>
+<p>Finally, the WaterFeature class provides the possibility to clearly indicate which Object is being observed or sampled (eg the channel Brussels-Charleroi) either as a WaterFeature typed by means of a value from a code list or by referring directly to the instance of the typed object.</p>
+{% endblock %}
 {% endblock %}
