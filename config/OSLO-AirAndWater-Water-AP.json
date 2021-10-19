@@ -5,7 +5,7 @@
   "eap": "OSLO-AirAndWater-Quality-AP.EAP",
   "diagram": "Air&Water-Water",
    "template":"airandwaterCore-ap_en.j2",
-   "title": "OSLO Air & Water - Water",
+   "title": "ODALA Air & Water - Water",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2021-10-01",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
@@ -18,14 +18,14 @@
     {
       "language":"en",
       "template":"airandwaterWater-ap_en.j2",
-      "title": "OSLO Air & Water - Water Quality",
+      "title": "ODALA Air & Water - Water Quality",
       "translationjson":"airandwaterWater-ap_en.json",
       "mergefile":"airandwaterWater-ap_en_merged.jsonld"
     },
     {
       "language":"nl",
       "template":"airandwaterWater-ap_nl.j2",
-      "title": "OSLO Air & Water - Water Quality",
+      "title": "ODALA Air & Water - Water Quality",
       "translationjson":"airandwaterWater-ap_nl.json",
       "mergefile":"airandwaterWater-ap_nl_merged.jsonld"
     }
