@@ -1,6 +1,6 @@
 [
 {
-  "name": "OSLO-airAndWater-Core-ap",
+  "name": "OSLO-airAndWater-Core-voc",
   "type": "voc",
   "eap": "OSLO-AirAndWater-Core-AP.EAP",
   "diagram": "Air&Water-Core",
