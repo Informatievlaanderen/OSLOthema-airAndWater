@@ -16,14 +16,14 @@
     "translation" :[
    {
       "language":"en",
-      "template":"airandwaterCore-ap_en.j2",
+      "template":"airandwaterCore-voc_en.j2",
       "title": "ODALA Air & Water - Core",
       "translationjson":"airandwaterCore-voc_en.json",
       "mergefile":"airandwaterCore-voc_en_merged.jsonld"
     },
     {
       "language":"nl",
-      "template":"airandwaterCore-ap_nl.j2",
+      "template":"airandwaterCore-voc_nl.j2",
       "title": "ODALA Air & Water - Core",
       "translationjson":"airandwaterCore-voc_nl.json",
       "mergefile":"airandwaterCore-voc_nl_merged.jsonld"
