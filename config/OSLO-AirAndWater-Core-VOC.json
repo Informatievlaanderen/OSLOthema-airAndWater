@@ -29,5 +29,36 @@
       "mergefile":"airandwaterCore-voc_nl_merged.jsonld"
     }
    ]
+},
+  {
+  "name": "OSLO-airAndWater-Core-voc",
+  "type": "voc",
+  "eap": "OSLO-AirAndWater-Core-AP.EAP",
+  "diagram": "Air&Water-Core",
+   "template":"airandwaterCore-voc_en.j2",
+   "title": "ODALA Air & Water - Core (Vocabulary)",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2021-10-01",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "MijnKolom",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html",
+    "translation" :[
+   {
+      "language":"en",
+      "template":"airandwaterCore-voc_en.j2",
+      "title": "ODALA Air & Water - Core (Vocabulary)",
+      "translationjson":"airandwaterCore-voc_en.json",
+      "mergefile":"airandwaterCore-voc_en_merged.jsonld"
+    },
+    {
+      "language":"nl",
+      "template":"airandwaterCore-voc_nl.j2",
+      "title": "ODALA Air & Water - Core (Vocabulary)",
+      "translationjson":"airandwaterCore-voc_nl.json",
+      "mergefile":"airandwaterCore-voc_nl_merged.jsonld"
+    }
+   ]
 }
 ]
