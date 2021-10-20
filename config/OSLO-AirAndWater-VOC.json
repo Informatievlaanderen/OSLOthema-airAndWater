@@ -2,7 +2,7 @@
 {
   "name": "OSLO-airAndWater-Core-voc",
   "type": "voc",
-  "eap": "OSLO-AirAndWater-Core-AP.EAP",
+  "eap": "OSLO-AirAndWater-Core-VOC.EAP",
   "diagram": "Air&Water-Core",
    "template":"airandwaterCore-voc_en.j2",
    "title": "ODALA Air & Water - Core (Vocabulary)",
