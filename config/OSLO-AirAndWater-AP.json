@@ -30,5 +30,21 @@
   "site": "site-skeleton/OSLO-airAndWater-Air-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+},
+{
+  "name": "OSLO-airAndWater-Water-ap",
+  "type": "ap",
+  "eap": "OSLO-AirAndWater-Quality-AP.EAP",
+  "diagram": "Air&Water-Water",
+   "template":"airandwaterCore-ap_en.j2",
+   "title": "ODALA Air & Water - Water (Application Profile)",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2021-10-01",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "MijnKolom",
+  "site": "site-skeleton/OSLO-airAndWater-Water-ap",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
 }
 ]
