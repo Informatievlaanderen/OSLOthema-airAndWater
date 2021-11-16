@@ -1,6 +1,7 @@
 [
 {
-  "name": "OSLO-airAndWater-Core-voc",
+  "name": "core",
+  "prefix": "air-and-water",
   "type": "voc",
   "eap": "OSLO-AirAndWater-Core-VOC.EAP",
   "diagram": "Air&Water-Core",
@@ -31,7 +32,8 @@
    ]
 },
   {
-  "name": "OSLO-airAndWater-Air-voc",
+  "name": "air",
+   "prefix": "air-and-water",
   "type": "voc",
   "eap": "OSLO-AirAndWater-Quality-VOC.EAP",
   "diagram": "Air&Water-Air",
@@ -62,7 +64,8 @@
    ]
 },
  {
-  "name": "OSLO-airAndWater-Water-voc",
+  "name": "water",
+    "prefix": "air-and-water",
   "type": "voc",
   "eap": "OSLO-AirAndWater-Quality-VOC.EAP",
   "diagram": "Air&Water-Water",
