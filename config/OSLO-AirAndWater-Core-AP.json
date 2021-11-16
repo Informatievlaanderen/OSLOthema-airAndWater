@@ -13,22 +13,6 @@
   "contributors-column": "MijnKolom",
   "site": "site-skeleton/OSLO-airAndWater-Core-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html",
-  "translation" :[
-   {
-      "language":"en",
-      "template":"airandwaterCore-ap_en.j2",
-      "title": "ODALA Air & Water - Core (Application Profile)",
-      "translationjson":"airandwaterCore-ap_en.json",
-      "mergefile":"airandwaterCore-ap_en_merged.jsonld"
-    },
-    {
-      "language":"nl",
-      "template":"airandwaterCore-ap_nl.j2",
-      "title": "ODALA Air & Water - Core (Application Profile)",
-      "translationjson":"airandwaterCore-ap_nl.json",
-      "mergefile":"airandwaterCore-ap_nl_merged.jsonld"
-    }
-   ]
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
 }
 ]
