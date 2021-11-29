@@ -1,1 +1,11 @@
+{% extends "purl-voc2_en.j2" %}
 
+{% block summary %}
+<p>The ODALA Air & Water - Water Quality vocabulary provides terminology to describe Water Quality Observations.</p>
+<p>Basic terms to describe Observations were reused from the ODALA Air & Water - Water vocabulary, but for Water Quality several new terms were added. Each term describes a particular type of Observation of the quality of Water.</p>
+<p>To exchange data about the concentration of harmful or indesirable substances an instance of the class ChemicalAgentConcentration can be used.</p>
+<p>For the biological quality of water use the classes BioIndicatorObservation and BioticIndexObservation: the first to describe observations of living organisms acting as a bioindicator, the second to aggregate into an index counts of vulnerable organisms.</p>
+<p>More generic Water Quality Observations should be described with the terms in the ODALA Air & Water - Core vocabulary.</p>
+<p>A class WaterFeature is provided to comminicate which real-world Object is actually being observed or sampled. It can be substituted with any instance of a class in the domain of air or typed by means of a codelist.</p>
+</p>
+{% endblock %}
