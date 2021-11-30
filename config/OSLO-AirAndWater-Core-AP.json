@@ -6,7 +6,7 @@
   "diagram": "Air&Water-Core",
    "template":"airandwaterCore-ap_en.j2",
    "title": "ODALA Air & Water - Core (Application Profile)",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-state": "https://data.vlaanderen.be/doc/concept/StandaardStatus/KandidaatStandaard",
   "publication-date": "2021-10-01",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
