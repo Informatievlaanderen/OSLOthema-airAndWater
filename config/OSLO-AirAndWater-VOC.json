@@ -49,14 +49,14 @@
     "translation" :[
    {
       "language":"en",
-      "template":"airandwaterCore-voc_en.j2",
+      "template":"airandwaterAir-voc_en.j2",
       "title": "ODALA Air & Water - Air (Vocabulary)",
       "translationjson":"airandwaterAir-voc_en.json",
       "mergefile":"airandwaterWater-voc_en_merged.jsonld"
     },
     {
       "language":"nl",
-      "template":"airandwaterCore-voc_nl.j2",
+      "template":"airandwaterAir-voc_nl.j2",
       "title": "ODALA Air & Water - Air (Vocabulary)",
       "translationjson":"airandwaterAir-voc_nl.json",
       "mergefile":"airandwaterWater-voc_nl_merged.jsonld"
@@ -81,14 +81,14 @@
     "translation" :[
    {
       "language":"en",
-      "template":"airandwaterCore-voc_en.j2",
+      "template":"airandwaterWater-voc_en.j2",
       "title": "ODALA Air & Water - Water (Vocabulary)",
       "translationjson":"airandwaterWater-voc_en.json",
       "mergefile":"airandwaterWater-voc_en_merged.jsonld"
     },
     {
       "language":"nl",
-      "template":"airandwaterCore-voc_nl.j2",
+      "template":"airandwaterWater-voc_nl.j2",
       "title": "ODALA Air & Water - Water (Vocabulary)",
       "translationjson":"airandwaterWater-voc_nl.json",
       "mergefile":"airandwaterWater-voc_nl_merged.jsonld"
