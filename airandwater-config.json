@@ -10,15 +10,15 @@
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Core",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Core/ontwerpstandaard/2021-04-16"
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Core/ontwerpstandaard/2021-10-01"
     },
     {
       "naam": "Applicatieprofiel Air",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-04-16"
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01"
     },
     {
       "naam": "Applicatieprofiel Water",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-04-16"
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01"
     }
   ],
   "documentatie": [],
@@ -57,15 +57,15 @@
     },
     {
       "naam": "Presentatie Thematische werkgroep 2 - 04 maart 2021",
-      "waarde": "OSLO Air & Water - Workshop 2.pptx"
+      "waarde": "OSLO Air en Water - Workshop 2.pptx"
     },
     {
       "naam": "Presentatie Thematische werkgroep 3 - 01 april 2021",
-      "waarde": "OSLO Air & Water - Workshop 3.pptx"
+      "waarde": "OSLO Air en Water - Workshop 3.pptx"
     },
     {
       "naam": "Presentatie Thematische werkgroep 4 - 27 april 2021",
-      "waarde": "OSLO Air & Water - Workshop 4.pptx"
+      "waarde": "OSLO Air en Water - Workshop 4.pptx"
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over lucht en water",
