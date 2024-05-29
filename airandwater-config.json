@@ -1,76 +1,82 @@
 {
-  "naam": "Vocabularium en applicatieprofiel air and water",
-  "rapport": "",
-  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-  "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO002949",
-  "publicatiedatum": "TBD",
-  "type_toepassing": "TBD",
-  "categorie": "Vocabularium en applicatieprofielen",
-  "beschrijving": "airandwater.md",
-  "specificatiedocument": [
+  "title": "Vocabularium en applicatieprofiel air and water",
+  "category": "Vocabularium en applicatieprofielen",
+  "usage": "TBD",
+  "status": "standaard-in-ontwikkeling",
+  "descriptionFileName": "airandwater.md",
+  "responsibleOrganisation": [
     {
-      "naam": "Applicatieprofiel Core",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Core/ontwerpstandaard/2021-10-01"
-    },
-    {
-      "naam": "Applicatieprofiel Air",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01"
-    },
-    {
-      "naam": "Applicatieprofiel Water",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01"
+      "name": "Agentschap Digitaal Vlaanderen",
+      "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
     }
   ],
-  "documentatie": [],
-  "charter": [
-  ],
-  "verslagen": [
+  "publicationDate": "TBD",
+  "specificationDocuments": [
     {
-      "naam": "Verslag Business workshop - 17 december 2020",
-      "waarde": "Meeting Minutes Business Workshop Air & Water_update.docx"
+      "name": "Applicatieprofiel Core",
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Core/ontwerpstandaard/2021-10-01"
     },
     {
-      "naam": "Verslag Thematische werkgroep 1 - 09 februari 2021",
-      "waarde": "Meeting Minutes - Thematic workshop 1 OSLO Air & Water 09022021_update.docx"
+      "name": "Applicatieprofiel Air",
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01"
     },
     {
-      "naam": "Verslag Thematische werkgroep 2 - 04 maart 2021",
-      "waarde": "Meeting Minutes - Thematic workshop 2 OSLO Air & Water.docx"
-    },
-    {
-      "naam": "Verslag Thematische werkgroep 3 - 01 april 2021",
-      "waarde": "Meeting Minutes - Thematic workshop 3 OSLO Air & Water.docx"
-    },
-    {
-      "naam": "Verslag Thematische werkgroep 4 - 27 april 2021",
-      "waarde": "Meeting Minutes - Thematic workshop 4 OSLO Air & Water.docx"
+      "name": "Applicatieprofiel Water",
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01"
     }
   ],
-  "presentaties": [
+  "documentation": [],
+  "reports": [
     {
-      "naam": "Presentatie Business workshop - 17 december 2020",
-      "waarde": "OSLO Air en Water Business Workshop.pptx"
+      "name": "Verslag Business workshop - 17 december 2020",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/reports/Meeting Minutes Business Workshop Air & Water_update.docx"
     },
     {
-      "naam": "Presentatie Thematische werkgroep 1 - 09 februari 2021",
-      "waarde": "OSLO Air & Water - Workshop 1.pptx"
+      "name": "Verslag Thematische werkgroep 1 - 09 februari 2021",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/reports/Meeting Minutes - Thematic workshop 1 OSLO Air & Water 09022021_update.docx"
     },
     {
-      "naam": "Presentatie Thematische werkgroep 2 - 04 maart 2021",
-      "waarde": "OSLO Air en Water - Workshop 2.pptx"
+      "name": "Verslag Thematische werkgroep 2 - 04 maart 2021",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/reports/Meeting Minutes - Thematic workshop 2 OSLO Air & Water.docx"
     },
     {
-      "naam": "Presentatie Thematische werkgroep 3 - 01 april 2021",
-      "waarde": "OSLO Air en Water - Workshop 3.pptx"
+      "name": "Verslag Thematische werkgroep 3 - 01 april 2021",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/reports/Meeting Minutes - Thematic workshop 3 OSLO Air & Water.docx"
     },
     {
-      "naam": "Presentatie Thematische werkgroep 4 - 27 april 2021",
-      "waarde": "OSLO Air en Water - Workshop 4.pptx"
+      "name": "Verslag Thematische werkgroep 4 - 27 april 2021",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/reports/Meeting Minutes - Thematic workshop 4 OSLO Air & Water.docx"
     }
   ],
-  "functioneel_toepassingsgebied": "Semantische standaard voor informatie over lucht en water",
-  "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
-  "datum_van_aanmelding": "12 November 2020",
-  "erkenning_werkgroep_datastandaarden": "TBD",
-  "erkenning_stuurgroep": "TBD"
+  "charter": {
+    "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/charter/"
+  },
+  "presentations": [
+    {
+      "name": "Presentatie Business workshop - 17 december 2020",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/presentations/OSLO Air en Water Business Workshop.pptx"
+    },
+    {
+      "name": "Presentatie Thematische werkgroep 1 - 09 februari 2021",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/presentations/OSLO Air & Water - Workshop 1.pptx"
+    },
+    {
+      "name": "Presentatie Thematische werkgroep 2 - 04 maart 2021",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/presentations/OSLO Air en Water - Workshop 2.pptx"
+    },
+    {
+      "name": "Presentatie Thematische werkgroep 3 - 01 april 2021",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/presentations/OSLO Air en Water - Workshop 3.pptx"
+    },
+    {
+      "name": "Presentatie Thematische werkgroep 4 - 27 april 2021",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-airandwater/standaardenregister/presentations/OSLO Air en Water - Workshop 4.pptx"
+    }
+  ],
+  "dateOfRegistration": "12 November 2020",
+  "dateOfAcknowledgementByWorkingGroup": "TBD",
+  "dateOfAcknowledgementBySteeringCommittee": "TBD",
+  "repository": "OSLOthema-airandwater",
+  "datePublicReviewStart": "",
+  "endOfPublicationDate": ""
 }
