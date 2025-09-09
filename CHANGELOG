@@ -1,3 +1,64 @@
-YYYY-MM--DD
-  - Mijn aanpassing1
-  - Mijn aanpassing2
+2025-09-09
+  - OSLO-AirAndWater-Core-AP.EAP:
+    - diagram: Air&Water-Core:
+      - Error: [ElementConverterHandler]: Invalid URL (https//www.w3.org/ns/locn#Address) for element(Model:Class Model:OSLO-Adres:AddressRepresentation). -> solved by changing URL into 'https://www.w3.org/ns/locn#Address'
+      - 2025-09-09T08:42:22.811Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:resultQuality).
+      - 2025-09-09T08:42:22.811Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:parameter).
+    - diagram: Air&Water-Core-SOSAversion
+      - 2025-09-09T08:44:25.508Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:resultQuality).
+      - 2025-09-09T08:44:25.508Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:parameter).
+    - diagram: Air&Water-Core-withputOMattributes
+      - 2025-09-09T08:47:19.740Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:resultQuality).
+      - 2025-09-09T08:47:19.740Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:parameter).
+    - diagram: AirQuality
+      - 2025-09-09T08:49:20.503Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:ClassModel:FIWARE:AirQualityObserved:dataProvider).
+      - 2025-09-09T08:49:20.503Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:location).
+      - 2025-09-09T08:49:20.503Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:address).
+      - 2025-09-09T08:49:20.503Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:source).
+  -> Solved by resetting the range of the conflicting types
+  - OSLO-AirAndWater-Core-VOC.EAP
+    - Error: [ElementConverterHandler]: Invalid URL (https//www.w3.org/ns/locn#Address) for element (Model:Class Model:OSLO-Adres:AddressRepresentation). ->
+    solved by changing URL into 'https://www.w3.org/ns/locn#Address'
+    - diagram: Air&Water-Core
+      - 2025-09-09T09:10:13.184Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:resultQuality).
+      - 2025-09-09T09:10:13.184Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:parameter).
+    - diagram: Air&Water-Core-SOSAversion
+      - 2025-09-09T09:12:43.841Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:resultQuality).
+      - 2025-09-09T09:12:43.841Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:parameter).
+    - diagram: Air&Water-Core-withputOMattributes
+      - 2025-09-09T09:15:42.484Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:resultQuality).
+      - 2025-09-09T09:15:42.484Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:parameter).
+    - diagram: AirQuality
+      - 2025-09-09T09:18:16.044Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:dataProvider).
+      - 2025-09-09T09:18:16.044Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:location).
+      - 2025-09-09T09:18:16.044Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:address).
+      - 2025-09-09T09:18:16.044Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:source). 
+    -> Solved by resetting the range of the conflicting types
+  - OSLO-AirAndWater-Quality-AP.EAP
+    - diagram Air&Water-Water
+      - 2025-09-09T09:28:10.376Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:resultQuality).
+      - 2025-09-09T09:28:10.376Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:parameter).
+      - 2025-09-09T09:28:10.376Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:WaterQuality:WaterQualityObservationCollection:refWeatherObserved).
+      - 2025-09-09T09:28:10.377Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OSLO-Generiek:QuantitativeValue:value).
+    - diagram AirQuality
+      - 2025-09-09T09:23:08.982Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:dataProvider).
+      - 2025-09-09T09:23:08.982Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:location).
+      - 2025-09-09T09:23:08.982Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:address).
+      - 2025-09-09T09:23:08.982Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:source).
+      - 2025-09-09T09:23:08.984Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:Device:image).
+  -> Solved by resetting the range of the conflicting types
+  - OSLO-AirAndWater-Quality-VOC.EAP
+    - diagram AirQuality
+      - 2025-09-09T09:38:08.653Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:dataProvider).
+      - 2025-09-09T09:38:08.653Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:location).
+      - 2025-09-09T09:38:08.653Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:address).
+      - 2025-09-09T09:38:08.653Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:AirQualityObserved:source).
+      - 2025-09-09T09:38:08.654Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:FIWARE:Device:image).
+    - diagram Air&Water-Water
+      - 2025-09-09T09:39:59.826Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:resultQuality).
+      - 2025-09-09T09:39:59.826Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OM:Observation:parameter).
+      - 2025-09-09T09:39:59.826Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:WaterQuality:WaterQualityObservationCollection:refWeatherObserved).
+      - 2025-09-09T09:39:59.827Z error: [AttributeConverterHandler]: Unable to determine the range for attribute (Model:Class Model:OSLO-Generiek:QuantitativeValue:value).
+  -> Solved by resetting the range of the conflicting types
+
+
