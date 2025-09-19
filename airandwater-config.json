@@ -14,15 +14,15 @@
   "specificationDocuments": [
     {
       "name": "Applicatieprofiel Core",
-      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Core/ontwerpstandaard/2021-10-01"
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Core/"
     },
     {
       "name": "Applicatieprofiel Air",
-      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/ontwerpstandaard/2021-10-01"
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Air/"
     },
     {
       "name": "Applicatieprofiel Water",
-      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/ontwerpstandaard/2021-10-01"
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/AirAndWater/Water/"
     }
   ],
   "documentation": [],
